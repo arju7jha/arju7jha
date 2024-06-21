@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1000" align="center" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGwya2JkZHpxeXhycDE2OTFpMzVqaGI0b3l5c3RpN3Z5cmJ4eTdoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+<img width="500" align="center" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGwya2JkZHpxeXhycDE2OTFpMzVqaGI0b3l5c3RpN3Z5cmJ4eTdoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" />
  </p>
 <h1 align="center">Hi 👋, I'm Arju Kumar</h1>
 <h3 align="center">A passionate Android & frontend developer from India</h3>
