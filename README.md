@@ -1,3 +1,5 @@
+![image](https://github.com/arju7jha/arju7jha/assets/88245601/587bdfda-69d5-4c01-9a2c-c0ef3fa5daca)
+
 <h1 align="center">Hi 👋, I'm Arju Kumar</h1>
 <h3 align="center">A passionate Android & frontend developer from India</h3>
 
